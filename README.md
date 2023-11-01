@@ -1,2 +1,2 @@
 # yzu-swiftui-1121-1101416
-# 作業1
+https://github.com/1101416/yzu-swiftui-1121-1101416/tree/main
