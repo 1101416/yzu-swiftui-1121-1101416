@@ -50,4 +50,4 @@ struct ContentView: View {
     
   ```
 
-  <iframe width="40%"  src="https://raw.githubusercontent.com/1101416/yzu-swiftui-1121-1101416/main/hw2.mp4">
+  <iframe width="40%"  src="https://raw.githubusercontent.com/1101416/yzu-swiftui-1121-1101416/main/hw2.mp4"></iframe>
