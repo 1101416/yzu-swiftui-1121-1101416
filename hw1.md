@@ -30,4 +30,4 @@
         }
     }
 ```
-<img width="40%"  src="https://github.com/1101416/yzu-swiftui-1121-1101416/blob/main/S__3563523.jpg">
+<img width="40%"  src="https://raw.githubusercontent.com/1101416/yzu-swiftui-1121-1101416/main/S__3563523.jpg">
