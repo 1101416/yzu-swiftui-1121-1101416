@@ -1,0 +1,21 @@
+<h1>HW4-2</h1>
+    
+```swift
+
+      import SwiftUI
+struct WelcomeView: View{
+    var body: some View{
+        VStack{
+            Image("影像內容 1")
+                .resizable()
+                .aspectRatio(contentMode: .fit)
+            Text("Welcome to unofficial webiste of KFC !")
+        }
+    }
+}
+
+
+
+    
+```
+<img width="40%"  src="https://raw.githubusercontent.com/1101416/yzu-swiftui-1121-1101416/main/IMG_0224.png">
